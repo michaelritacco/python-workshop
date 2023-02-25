@@ -1,6 +1,6 @@
 # Python-Workshop
 
-Welcome to the Python for Data Science Workshop GitHub repository!
+Welcome to my Python for Data Science Workshop GitHub repository!
 
 This repository contains all the materials you will need to follow along with the workshop. Inside, you will find a [Python Workshop](https://github.com/michaelritacco/Python-Workshop/blob/main/Python%20Workshop.ipynb) Jupyter notebook that contains the code and explanations for each section of the workshop. In addition, a separate Jupyter notebook titled [Python Workshop (Solutions Included)](https://github.com/michaelritacco/Python-Workshop/blob/main/Python%20Workshop%20(Solutions%20Included).ipynb) is provided which contains the solutions to all of the exercises in [Python Workshop](https://github.com/michaelritacco/Python-Workshop/blob/main/Python%20Workshop.ipynb). These notebooks are both organized by topic, so you can easily navigate to the section you want to work on.
 
