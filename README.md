@@ -6,7 +6,7 @@ This repository contains all the materials you will need to follow along with th
 
 Additionally, the repository contains a ["data"](https://github.com/michaelritacco/Python-Workshop/tree/main/Datasets) folder that contains the datasets used in the workshop. You can use these datasets to follow along with the data exploration section of the workshop.
 
-We encourage you to clone or download this repository to your local machine, so you can go through the workshop yourself. To run the Jupyter notebooks, you will need to have Python installed on your machine, as well as the necessary libraries, such as Pandas, Numpy, Matplotlib, and Seaborn. We recommend using a virtual environment to manage your Python dependencies.
+I encourage you to clone or download this repository to your local machine, so you can go through the workshop yourself. To run the Jupyter notebooks, you will need to have Python installed on your machine, as well as the necessary libraries, such as Pandas, Numpy, Matplotlib, and Seaborn. We recommend using a virtual environment to manage your Python dependencies. Although Anaconda is not required to complete this workshop, I would highly recommend installing it, as it simplifies the setup process. Lastly, it should be mentioned that Google Colab is a good "light-weight" alternative for working through this notebook.
 
 Throughout the workshop, you will be working on hands-on exercises, so feel free to modify the code and experiment with different approaches. If you have any questions or issues, please feel free to open an issue in the repository.
 
