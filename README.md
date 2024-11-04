@@ -1,4 +1,4 @@
-# Python-Workshop
+# Python Workshop
 
 Welcome to my Python for Data Science Workshop GitHub repository!
 
